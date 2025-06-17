@@ -24,4 +24,9 @@ Useful resources:
 - [Let's build GPT - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - [Stanford CS25: V2 I Introduction to Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&index=12)
 
+Related courses:
+- [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/)
+- [CS294/194-196 Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24)
+- [Large Language Models: Methods and Applications](https://cmu-llms.org/)
+
 This lab is based on the https://github.com/rasbt/LLMs-from-scratch book/repo.
